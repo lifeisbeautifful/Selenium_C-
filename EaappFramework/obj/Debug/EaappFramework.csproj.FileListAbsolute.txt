@@ -1,0 +1,154 @@
+C:\Users\ognyp\Desktop\FinalProject\Eaapp\EaappFramework\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\ognyp\Desktop\FinalProject\Eaapp\EaappFramework\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\ognyp\Desktop\FinalProject\Eaapp\EaappFramework\bin\Debug\nunit.engine.dll
+C:\Users\ognyp\Desktop\FinalProject\Eaapp\EaappFramework\bin\Debug\nunit.engine.api.dll
+C:\Users\ognyp\Desktop\FinalProject\Eaapp\EaappFramework\bin\Debug\nunit.engine.core.dll
+C:\Users\ognyp\Desktop\FinalProject\Eaapp\EaappFramework\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\ognyp\Desktop\FinalProject\Eaapp\EaappFramework\bin\Debug\EaappFramework.dll
+C:\Users\ognyp\Desktop\FinalProject\Eaapp\EaappFramework\bin\Debug\EaappFramework.pdb
+C:\Users\ognyp\Desktop\FinalProject\Eaapp\EaappFramework\bin\Debug\nunit.framework.dll
+C:\Users\ognyp\Desktop\FinalProject\Eaapp\EaappFramework\bin\Debug\WebDriver.dll
+C:\Users\ognyp\Desktop\FinalProject\Eaapp\EaappFramework\bin\Debug\WebDriver.Support.dll
+C:\Users\ognyp\Desktop\FinalProject\Eaapp\EaappFramework\bin\Debug\nunit.framework.xml
+C:\Users\ognyp\Desktop\FinalProject\Eaapp\EaappFramework\bin\Debug\WebDriver.xml
+C:\Users\ognyp\Desktop\FinalProject\Eaapp\EaappFramework\bin\Debug\WebDriver.Support.xml
+C:\Users\ognyp\Desktop\FinalProject\Eaapp\EaappFramework\obj\Debug\EaappFramework.csproj.AssemblyReference.cache
+C:\Users\ognyp\Desktop\FinalProject\Eaapp\EaappFramework\obj\Debug\EaappFramework.csproj.CoreCompileInputs.cache
+C:\Users\ognyp\Desktop\FinalProject\Eaapp\EaappFramework\obj\Debug\EaappFramework.csproj.CopyComplete
+C:\Users\ognyp\Desktop\FinalProject\Eaapp\EaappFramework\obj\Debug\EaappFramework.dll
+C:\Users\ognyp\Desktop\FinalProject\Eaapp\EaappFramework\obj\Debug\EaappFramework.pdb
+C:\Users\ognyp\Desktop\MyProject\Test\EaappFramework\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\ognyp\Desktop\MyProject\Test\EaappFramework\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\ognyp\Desktop\MyProject\Test\EaappFramework\bin\Debug\nunit.engine.dll
+C:\Users\ognyp\Desktop\MyProject\Test\EaappFramework\bin\Debug\nunit.engine.api.dll
+C:\Users\ognyp\Desktop\MyProject\Test\EaappFramework\bin\Debug\nunit.engine.core.dll
+C:\Users\ognyp\Desktop\MyProject\Test\EaappFramework\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\ognyp\Desktop\MyProject\Test\EaappFramework\bin\Debug\EaappFramework.dll
+C:\Users\ognyp\Desktop\MyProject\Test\EaappFramework\bin\Debug\EaappFramework.pdb
+C:\Users\ognyp\Desktop\MyProject\Test\EaappFramework\bin\Debug\nunit.framework.dll
+C:\Users\ognyp\Desktop\MyProject\Test\EaappFramework\bin\Debug\WebDriver.dll
+C:\Users\ognyp\Desktop\MyProject\Test\EaappFramework\bin\Debug\WebDriver.Support.dll
+C:\Users\ognyp\Desktop\MyProject\Test\EaappFramework\bin\Debug\nunit.framework.xml
+C:\Users\ognyp\Desktop\MyProject\Test\EaappFramework\bin\Debug\WebDriver.xml
+C:\Users\ognyp\Desktop\MyProject\Test\EaappFramework\bin\Debug\WebDriver.Support.xml
+C:\Users\ognyp\Desktop\MyProject\Test\EaappFramework\obj\Debug\EaappFramework.csproj.AssemblyReference.cache
+C:\Users\ognyp\Desktop\MyProject\Test\EaappFramework\obj\Debug\EaappFramework.csproj.CoreCompileInputs.cache
+C:\Users\ognyp\Desktop\MyProject\Test\EaappFramework\obj\Debug\EaappFramework.csproj.CopyComplete
+C:\Users\ognyp\Desktop\MyProject\Test\EaappFramework\obj\Debug\EaappFramework.dll
+C:\Users\ognyp\Desktop\MyProject\Test\EaappFramework\obj\Debug\EaappFramework.pdb
+C:\Users\ognyp\Desktop\FinalProject\Test\EaappFramework\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\ognyp\Desktop\FinalProject\Test\EaappFramework\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\ognyp\Desktop\FinalProject\Test\EaappFramework\bin\Debug\nunit.engine.dll
+C:\Users\ognyp\Desktop\FinalProject\Test\EaappFramework\bin\Debug\nunit.engine.api.dll
+C:\Users\ognyp\Desktop\FinalProject\Test\EaappFramework\bin\Debug\nunit.engine.core.dll
+C:\Users\ognyp\Desktop\FinalProject\Test\EaappFramework\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\ognyp\Desktop\FinalProject\Test\EaappFramework\bin\Debug\EaappFramework.dll
+C:\Users\ognyp\Desktop\FinalProject\Test\EaappFramework\bin\Debug\EaappFramework.pdb
+C:\Users\ognyp\Desktop\FinalProject\Test\EaappFramework\bin\Debug\nunit.framework.dll
+C:\Users\ognyp\Desktop\FinalProject\Test\EaappFramework\bin\Debug\WebDriver.dll
+C:\Users\ognyp\Desktop\FinalProject\Test\EaappFramework\bin\Debug\WebDriver.Support.dll
+C:\Users\ognyp\Desktop\FinalProject\Test\EaappFramework\bin\Debug\nunit.framework.xml
+C:\Users\ognyp\Desktop\FinalProject\Test\EaappFramework\bin\Debug\WebDriver.xml
+C:\Users\ognyp\Desktop\FinalProject\Test\EaappFramework\bin\Debug\WebDriver.Support.xml
+C:\Users\ognyp\Desktop\FinalProject\Test\EaappFramework\obj\Debug\EaappFramework.csproj.AssemblyReference.cache
+C:\Users\ognyp\Desktop\FinalProject\Test\EaappFramework\obj\Debug\EaappFramework.csproj.CoreCompileInputs.cache
+C:\Users\ognyp\Desktop\FinalProject\Test\EaappFramework\obj\Debug\EaappFramework.csproj.CopyComplete
+C:\Users\ognyp\Desktop\FinalProject\Test\EaappFramework\obj\Debug\EaappFramework.dll
+C:\Users\ognyp\Desktop\FinalProject\Test\EaappFramework\obj\Debug\EaappFramework.pdb
+C:\Users\Oksana\Desktop\ND\Test\EaappFramework\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Oksana\Desktop\ND\Test\EaappFramework\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Oksana\Desktop\ND\Test\EaappFramework\bin\Debug\nunit.engine.dll
+C:\Users\Oksana\Desktop\ND\Test\EaappFramework\bin\Debug\nunit.engine.api.dll
+C:\Users\Oksana\Desktop\ND\Test\EaappFramework\bin\Debug\nunit.engine.core.dll
+C:\Users\Oksana\Desktop\ND\Test\EaappFramework\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\Oksana\Desktop\ND\Test\EaappFramework\bin\Debug\EaappFramework.dll
+C:\Users\Oksana\Desktop\ND\Test\EaappFramework\bin\Debug\EaappFramework.pdb
+C:\Users\Oksana\Desktop\ND\Test\EaappFramework\bin\Debug\nunit.framework.dll
+C:\Users\Oksana\Desktop\ND\Test\EaappFramework\bin\Debug\WebDriver.dll
+C:\Users\Oksana\Desktop\ND\Test\EaappFramework\bin\Debug\WebDriver.Support.dll
+C:\Users\Oksana\Desktop\ND\Test\EaappFramework\bin\Debug\nunit.framework.xml
+C:\Users\Oksana\Desktop\ND\Test\EaappFramework\bin\Debug\WebDriver.xml
+C:\Users\Oksana\Desktop\ND\Test\EaappFramework\bin\Debug\WebDriver.Support.xml
+C:\Users\Oksana\Desktop\ND\Test\EaappFramework\obj\Debug\EaappFramework.csprojAssemblyReference.cache
+C:\Users\Oksana\Desktop\ND\Test\EaappFramework\obj\Debug\EaappFramework.csproj.CoreCompileInputs.cache
+C:\Users\Oksana\Desktop\ND\Test\EaappFramework\obj\Debug\EaappFramework.csproj.CopyComplete
+C:\Users\Oksana\Desktop\ND\Test\EaappFramework\obj\Debug\EaappFramework.dll
+C:\Users\Oksana\Desktop\ND\Test\EaappFramework\obj\Debug\EaappFramework.pdb
+C:\Users\Oksana\Desktop\CVs\C#WebFramework\Test\EaappFramework\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Oksana\Desktop\CVs\C#WebFramework\Test\EaappFramework\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Oksana\Desktop\CVs\C#WebFramework\Test\EaappFramework\bin\Debug\nunit.engine.dll
+C:\Users\Oksana\Desktop\CVs\C#WebFramework\Test\EaappFramework\bin\Debug\nunit.engine.api.dll
+C:\Users\Oksana\Desktop\CVs\C#WebFramework\Test\EaappFramework\bin\Debug\nunit.engine.core.dll
+C:\Users\Oksana\Desktop\CVs\C#WebFramework\Test\EaappFramework\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\Oksana\Desktop\CVs\C#WebFramework\Test\EaappFramework\bin\Debug\EaappFramework.dll
+C:\Users\Oksana\Desktop\CVs\C#WebFramework\Test\EaappFramework\bin\Debug\EaappFramework.pdb
+C:\Users\Oksana\Desktop\CVs\C#WebFramework\Test\EaappFramework\bin\Debug\nunit.framework.dll
+C:\Users\Oksana\Desktop\CVs\C#WebFramework\Test\EaappFramework\bin\Debug\WebDriver.dll
+C:\Users\Oksana\Desktop\CVs\C#WebFramework\Test\EaappFramework\bin\Debug\WebDriver.Support.dll
+C:\Users\Oksana\Desktop\CVs\C#WebFramework\Test\EaappFramework\bin\Debug\nunit.framework.xml
+C:\Users\Oksana\Desktop\CVs\C#WebFramework\Test\EaappFramework\bin\Debug\WebDriver.xml
+C:\Users\Oksana\Desktop\CVs\C#WebFramework\Test\EaappFramework\bin\Debug\WebDriver.Support.xml
+C:\Users\Oksana\Desktop\CVs\C#WebFramework\Test\EaappFramework\obj\Debug\EaappFramework.csproj.AssemblyReference.cache
+C:\Users\Oksana\Desktop\CVs\C#WebFramework\Test\EaappFramework\obj\Debug\EaappFramework.csproj.CoreCompileInputs.cache
+C:\Users\Oksana\Desktop\CVs\C#WebFramework\Test\EaappFramework\obj\Debug\EaappFramework.csproj.CopyComplete
+C:\Users\Oksana\Desktop\CVs\C#WebFramework\Test\EaappFramework\obj\Debug\EaappFramework.dll
+C:\Users\Oksana\Desktop\CVs\C#WebFramework\Test\EaappFramework\obj\Debug\EaappFramework.pdb
+C:\Users\Oksana\Desktop\CVs\C#WebFramework\Test\EaappFramework\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\Oksana\Desktop\CVs\C#WebFramework\Test\EaappFramework\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\Oksana\Desktop\CVs\C#WebFramework\Test\EaappFramework\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\Oksana\Desktop\CVs\C#WebFramework\Test\EaappFramework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Oksana\Desktop\CVs\C#WebFramework\Test\EaappFramework\bin\Debug\System.Drawing.Common.dll
+C:\Users\Oksana\Desktop\CVs\C#WebFramework\Test\EaappFramework\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Oksana\Desktop\CVs\C#WebFramework\Test\EaappFramework\bin\Debug\System.Drawing.Common.xml
+E:\C#WebFramework\Test\EaappFramework\bin\Debug\selenium-manager\linux\selenium-manager
+E:\C#WebFramework\Test\EaappFramework\bin\Debug\selenium-manager\macos\selenium-manager
+E:\C#WebFramework\Test\EaappFramework\bin\Debug\selenium-manager\windows\selenium-manager.exe
+E:\C#WebFramework\Test\EaappFramework\bin\Debug\NUnit3.TestAdapter.dll
+E:\C#WebFramework\Test\EaappFramework\bin\Debug\NUnit3.TestAdapter.pdb
+E:\C#WebFramework\Test\EaappFramework\bin\Debug\nunit.engine.dll
+E:\C#WebFramework\Test\EaappFramework\bin\Debug\nunit.engine.api.dll
+E:\C#WebFramework\Test\EaappFramework\bin\Debug\nunit.engine.core.dll
+E:\C#WebFramework\Test\EaappFramework\bin\Debug\testcentric.engine.metadata.dll
+E:\C#WebFramework\Test\EaappFramework\bin\Debug\EaappFramework.dll
+E:\C#WebFramework\Test\EaappFramework\bin\Debug\EaappFramework.pdb
+E:\C#WebFramework\Test\EaappFramework\bin\Debug\Newtonsoft.Json.dll
+E:\C#WebFramework\Test\EaappFramework\bin\Debug\nunit.framework.dll
+E:\C#WebFramework\Test\EaappFramework\bin\Debug\System.Drawing.Common.dll
+E:\C#WebFramework\Test\EaappFramework\bin\Debug\WebDriver.dll
+E:\C#WebFramework\Test\EaappFramework\bin\Debug\WebDriver.Support.dll
+E:\C#WebFramework\Test\EaappFramework\bin\Debug\Newtonsoft.Json.xml
+E:\C#WebFramework\Test\EaappFramework\bin\Debug\nunit.framework.xml
+E:\C#WebFramework\Test\EaappFramework\bin\Debug\System.Drawing.Common.xml
+E:\C#WebFramework\Test\EaappFramework\bin\Debug\WebDriver.xml
+E:\C#WebFramework\Test\EaappFramework\bin\Debug\WebDriver.Support.xml
+E:\C#WebFramework\Test\EaappFramework\obj\Debug\EaappFramework.csproj.AssemblyReference.cache
+E:\C#WebFramework\Test\EaappFramework\obj\Debug\EaappFramework.csproj.CoreCompileInputs.cache
+E:\C#WebFramework\Test\EaappFramework\obj\Debug\EaappFra.7D6E33AC.Up2Date
+E:\C#WebFramework\Test\EaappFramework\obj\Debug\EaappFramework.dll
+E:\C#WebFramework\Test\EaappFramework\obj\Debug\EaappFramework.pdb
+C:\Users\Oksana\Desktop\New folder (2)\Selenium_C-\EaappFramework\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\Oksana\Desktop\New folder (2)\Selenium_C-\EaappFramework\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\Oksana\Desktop\New folder (2)\Selenium_C-\EaappFramework\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\Oksana\Desktop\New folder (2)\Selenium_C-\EaappFramework\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Oksana\Desktop\New folder (2)\Selenium_C-\EaappFramework\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Oksana\Desktop\New folder (2)\Selenium_C-\EaappFramework\bin\Debug\nunit.engine.dll
+C:\Users\Oksana\Desktop\New folder (2)\Selenium_C-\EaappFramework\bin\Debug\nunit.engine.api.dll
+C:\Users\Oksana\Desktop\New folder (2)\Selenium_C-\EaappFramework\bin\Debug\nunit.engine.core.dll
+C:\Users\Oksana\Desktop\New folder (2)\Selenium_C-\EaappFramework\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\Oksana\Desktop\New folder (2)\Selenium_C-\EaappFramework\bin\Debug\EaappFramework.dll
+C:\Users\Oksana\Desktop\New folder (2)\Selenium_C-\EaappFramework\bin\Debug\EaappFramework.pdb
+C:\Users\Oksana\Desktop\New folder (2)\Selenium_C-\EaappFramework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Oksana\Desktop\New folder (2)\Selenium_C-\EaappFramework\bin\Debug\nunit.framework.dll
+C:\Users\Oksana\Desktop\New folder (2)\Selenium_C-\EaappFramework\bin\Debug\System.Drawing.Common.dll
+C:\Users\Oksana\Desktop\New folder (2)\Selenium_C-\EaappFramework\bin\Debug\WebDriver.dll
+C:\Users\Oksana\Desktop\New folder (2)\Selenium_C-\EaappFramework\bin\Debug\WebDriver.Support.dll
+C:\Users\Oksana\Desktop\New folder (2)\Selenium_C-\EaappFramework\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Oksana\Desktop\New folder (2)\Selenium_C-\EaappFramework\bin\Debug\nunit.framework.xml
+C:\Users\Oksana\Desktop\New folder (2)\Selenium_C-\EaappFramework\bin\Debug\System.Drawing.Common.xml
+C:\Users\Oksana\Desktop\New folder (2)\Selenium_C-\EaappFramework\bin\Debug\WebDriver.xml
+C:\Users\Oksana\Desktop\New folder (2)\Selenium_C-\EaappFramework\bin\Debug\WebDriver.Support.xml
+C:\Users\Oksana\Desktop\New folder (2)\Selenium_C-\EaappFramework\obj\Debug\EaappFramework.csproj.AssemblyReference.cache
+C:\Users\Oksana\Desktop\New folder (2)\Selenium_C-\EaappFramework\obj\Debug\EaappFramework.csproj.CoreCompileInputs.cache
+C:\Users\Oksana\Desktop\New folder (2)\Selenium_C-\EaappFramework\obj\Debug\EaappFra.7D6E33AC.Up2Date
+C:\Users\Oksana\Desktop\New folder (2)\Selenium_C-\EaappFramework\obj\Debug\EaappFramework.dll
+C:\Users\Oksana\Desktop\New folder (2)\Selenium_C-\EaappFramework\obj\Debug\EaappFramework.pdb

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Oksana\\Desktop\\New folder (2)\\Selenium_C-\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{242C59ED-0D8E-488B-915A-FFDC1BB9B472}|EaappTests\\EaappTests.csproj|c:\\users\\oksana\\desktop\\new folder (2)\\selenium_c-\\eaapptests\\eaapptests\\logintest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{242C59ED-0D8E-488B-915A-FFDC1BB9B472}|EaappTests\\EaappTests.csproj|solutionrelative:eaapptests\\eaapptests\\logintest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginTest.cs",
+              "DocumentMoniker": "C:\\Users\\Oksana\\Desktop\\New folder (2)\\Selenium_C-\\EaappTests\\EaappTests\\LoginTest.cs",
+              "RelativeDocumentMoniker": "EaappTests\\EaappTests\\LoginTest.cs",
+              "ToolTip": "C:\\Users\\Oksana\\Desktop\\New folder (2)\\Selenium_C-\\EaappTests\\EaappTests\\LoginTest.cs",
+              "RelativeToolTip": "EaappTests\\EaappTests\\LoginTest.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAqwAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T17:29:35.72Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
